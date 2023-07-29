@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C47530C0-4707-4714-9F85-9A2DC6F04FB8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9C117AB-896B-4005-BF1C-33F5450689A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CV_Maker_App/MainPage/Ui/MainPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "allCvButtonAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53D5F2AD-D30B-465D-A134-150F6AFA61D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CV_Maker_App/AllCvsPage/Ui/AllCvsPageTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53D5F2AD-D30B-465D-A134-150F6AFA61D3 - eb07224f3fb1a75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CV_Maker_App.AllCvsPageTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CV_Maker_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriymkrtumyan/Desktop/Picsart_Academy/CV_Maker_App/CV_Maker_App/AllCvsPage/Ui/AllCvsPageTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "53D5F2AD-D30B-465D-A134-150F6AFA61D3 - eb07224f3fb1a75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CV_Maker_App.AllCvsPageTableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CV_Maker_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriymkrtumyan/Desktop/Picsart_Academy/CV_Maker_App/CV_Maker_App/AllCvsPage/Ui/AllCvsPageTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
